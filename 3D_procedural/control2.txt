@@ -1,0 +1,3 @@
+obj stanfordModels/f16.obj
+rx 90
+

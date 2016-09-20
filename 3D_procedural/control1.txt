@@ -1,0 +1,1 @@
+obj stanfordModels/bunny.obj rx 90. rz 180.

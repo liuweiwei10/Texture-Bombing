@@ -1,0 +1,5 @@
+obj assg4ObjFiles/cube_with_texture.obj
+light directional ambient .2 .2 .2 color 1. 1. 1. position 1 1 1
+light directional ambient .2 .2 .2 color 1. 1. 1. position -1 -1 1 
+light directional ambient .2 .2 .2 color 1. 1. 1. position 0 0 -1
+view camera 0.75 1.5 1. focal 0. 0. 0. viewup 0. 0. 1.
